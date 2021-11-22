@@ -27,5 +27,4 @@ while True:
 
 my_video.release()
 # cv2.destroyAllWindows()
-    # cv2.imshow('output',frame)
-    # cv2.waitKey(10)
+   
